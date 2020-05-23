@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/demo/clientlibs/clientlib-wireframe,/apps
+ /wcm/core/content/editor/jcr:content/content/items/content/header/ite
+ ms/headerbar/items/wireframe
+Content-Package-Type: application
+Content-Package-Id: my_packages:aem-wireframe
+
